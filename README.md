@@ -10,6 +10,3 @@
 ## Usage
 * make
 * sudo make install
-
-## Support
-If you want some support for another configuration, please ask for it (ip413as@gmail.com).
